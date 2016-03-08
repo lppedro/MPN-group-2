@@ -1,1 +1,5 @@
-# MPN-group-2
+## Trabalho Final - Modelagem Processos de Negócios
+Este trabalho tem como objetivo exemplificar as 4 primeiras etapas do Ciclo de Vida BPM, sendo elas: Identificação de Processos, Descoberta de Processos, Análise de Processos e Redesign de Processos.
+
+### Observatório Social
+A empresa escolhida para ter seus processos modelados neste trabalho foi o obersvatório social de Campo Grande, MS.
