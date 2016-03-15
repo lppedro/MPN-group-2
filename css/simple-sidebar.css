@@ -4,6 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+#menu_button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background:rgba(255,255,255, 0.3);
+}
+
 /* Toggle Styles */
 
 #wrapper {
