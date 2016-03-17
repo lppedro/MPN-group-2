@@ -11,6 +11,16 @@
     background:rgba(255,255,255, 0.7);
 }
 
+#entrevista {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#entrevista blockquote{
+    font-weight: 200;
+    color: red;
+}
+
 /* Toggle Styles */
 
 #wrapper {
