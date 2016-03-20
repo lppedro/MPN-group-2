@@ -1,0 +1,16 @@
+ATA DE REUNIÃO DO PROJETO DE MELHORIA DE PROCESSOS - FASE 2
+
+Aos 13 dias do mês de março de dois mil e dezesseis, as 16:00h, na sala reservada para o Observatório Social de Campo Grande, localizado na Associação Comercial de Campo Grande, iniciou-se a reunião de monitoria e acompanhamento do projeto de melhoria de processos de negócios, fase 2, executado pelos alunos do segundo grupo da primeira turma do curso de Modelagem de Processos de Negócio, matéria do curso acadêmico de Análise de Sistemas na Universidade Federal de Mato Grosso do Sul. A reunião foi presidida pelo vice-presidente do Observatório Social de Campo Grande, Hélio Toshiaki, e registrada por mim, Felipe Chulli Lopes. A reunião contou com a presença dos alunos do projeto e um membro do Observatório Social de Campo Grande.
+
+Dentre a pauta, a fidelidade do modelo do processo de acompanhamento de licitações ao processo do Observatório Social.
+
+O aluno Hélio Hisao, responsável pela modelagem do processo, apresentou ao vice-presidente a representação do processo em modelo BPMN, cujo foi analisado pelo vice-presidente, o qual elogiou a forma com que o processo foi tratado. Logo em seguida o aluno Rafael Lima explicou, de forma resumida, como funciona os eventos e subprocessos.
+
+Foi colocado pelos alunos do projeto se a modelagem estava fiel ao processo, tendo recebido do vice-presidente um único adendo em relação ao cadastramento de licitações, que é realizado em paralelo ao processo todo, e não precisa ser necessariamente terminado para dar continuidade ao processo.
+
+Por fim, foi questionado ao vice-presidente as falhas do processo, onde o mesmo mencionou a atual incapacidade de evitar conluio entre os fornecedores e a eliminação da possibilidade de uma boa concorrência por especificações do edital.
+Nada mais havendo a tratar, foi encerrada a reunião.
+
+Estiveram presentes
+Conselho administrativo do Observatório Social: Hélio Toshiaki
+Alunos do projeto de melhoria de processos de negócio: Felipe Chulli, Hélio Hisao, Rodrigo Lescano e Rafael Lima

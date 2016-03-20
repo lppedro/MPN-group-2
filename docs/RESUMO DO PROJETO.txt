@@ -1,0 +1,58 @@
+RESUMO DO PROJETO
+O QUE É O OBSERVATÓRIO?
+O observatório é uma empresa privada sem fins lucrativos e apartidário que estimula o exercício da cidadania pela educação fiscal. Ele reúne o maior número de entidades representativas da sociedade com o objetivo de contribuir para a melhoria da gestão pública.
+O observatório é constituído por cidadãos brasileiros que transformaram sua indignação em atitude em favor da transparência e da qualidade das aplicações dos recursos públicos. São empresários, profissionais, professores, estudantes, funcionários públicos e outros cidadãos que, voluntariamente, entregam-se à causa da justiça social.
+
+COMO FUNCIONA?
+A sua atuação é como pessoa jurídica em forma de associação que visa tornar a fiscalização corriqueira na vida do cidadão através do incentivo da educação fiscal. Por este ser um objetivo a longo prazo, o responsável por monitorar de maneira preventiva as compras públicas é o próprio observatório. Além disso, o observatório contribui na inserção da micro e pequena empresa nos processos licitatórios.
+
+COMO É FEITO ESTE MONITORAMENTO? COMO O OBSERVATÓRIO CONTRIBUI NA INSERÇÃO DA MICRO E PEQUENA EMPRESA NOS PROCESSOS LICITATÓRIOS?
+O monitoramento é feito através do processo de acompanhamento das licitações feitas pela prefeitura. Durante esse acompanhamento, um cadastro da licitação é feito em um Sistema Informatizado de Monitoramento ( A.K.A Aplicativo SIM ), e, ao cadastrar os itens que a prefeitura procura comprar, um email é enviado aos fornecedores que vendem este tipo de item, que são, em sua grande maioria, micro e pequenas empresas.
+
+E COMO FUNCIONA ESTE PROCESSO DE ACOMPANHAMENTO DE LICITAÇÕES?
+Para cadastrar uma licitação primeiramente são requisitados os documentos que compõem o processo licitatório ( edital, termo de referência e formulários e proposta ). A partir do recebimento, é feito um registro das informações relativas ao evento, tais como data, valores e número do processo, no aplicativo SIM ( Sistema Informatizado de Monitoramento ). O aplicativo expede um email aos fornecedores vinculados ao código CNAE (Classificação Nacional de Atividades Econômicas ) do produto que está sendo adquirido pela prefeitura para que ele possa analisar eventual interesse em vender. Em seguida, é mobilizada uma equipe para analisar as informações relativas as documentações recebidas para verificar se estão de acordo com a lei. Se não estiverem, é necessário, dentro do prazo legal ( 2 dias ), efetuar uma solicitação de indignação do edital, se estiverem, determina-se a presença de uma equipe para participar do certame na data e hora programadas no edital. Após serem definidos os vencedores do pregão, é necessário esperar a homologação da compra pelo prefeito e aguardar o prazo da entrega do produto e acompanhar a sua entrega para conferir se o produto que está sendo entregue é o mesmo solicitado. Se não for, é comunicado a um gestor sobre a falha para providências cabíveis.
+
+Obs: Uma versão mais intuitiva desse processo (AS-IS) pode ser encontrada no repositório.
+
+FASE 1 - IDENFICAÇÃO DO PROCESSO
+Configuração: Alison Moura, Pedro Henrique, Willian Marotzki
+Após a realização da primeira reunião ( ver ATA DE REUNIÃO DO PROJETO DE MELHORIA DE PROCESSOS no repositório ), conseguimos uma lista com todos os processos do observatório. Dentre essa lista:
+1)	PROCESSOS QUE SUSTENTAM O OBSERVATÓRIO:
+	•	Processo de cobrança de mensalidade dos voluntariados
+	•	Processo de divulgação das atividades do OS em mídias sociais
+2)	PROCESSO CORE/PRINCIPAL:
+	•	Processo de acompanhamento de licitações
+3)	PROCESSOS QUE MOVIMENTAM O OBSERVATÓRIO
+	•	Processo de cadastramento de voluntariados
+	•	Processo de pagamento de empregados
+	•	Controle de bens patrimoniais
+
+A partir disto, sabendo quais eram as responsabilidades sociais do Observatório Social ( ver Processos Gerais do OSCG no repositório ), foi possível definir quais eram os serviços do observatório que são prestados à sociedade, definindo, assim, os casos da matriz caso-função, e, sabendo a maneira com que o observatório persegue esses objetivos, fomos capazes de listar as funções.
+
+Tendo a matriz-caso função em mãos ( ver MATRIZ CASO FUNÇÃO DO OBSERVATÓRIO no repositório ), identificamos os processos que são pertinentes aos serviços prestados pelo observatório à sociedade, sendo eles o acompanhamento de licitações, divulgação em mídias sociais e o cadastramento de voluntariados.
+
+Com todos os processos do observatório e a matriz caso-função em mãos, fomos capazes de representar a arquitetura do observatório social ( ver ARQUITETURA DE PROCESSOS DO OBSERVATÓRIO no repositório )
+Com dados fornecidos pelo observatório, fomos capazes de analisar a relevância, saúde, viabilidade de mudança, riscos de não aprimorar e relação com os objetivos do observatório  de cada processo e montar um portfólio levando em consideração a relevância e a saúde de cada processo ( ver MatrizCasoFuncaoEPortfolio no repositório ).
+
+O processo com a maior relevância, menor saúde e maior viabilidade que corria mais riscos ao não ser aprimorado foi o de acompanhamento de licitações.
+
+FASE 2 - DESCOBERTA DO PROCESSO
+Configuração: Hélio Hisao, Rodrigo Lescano, Felipe Chulli e Rafael Lima
+Sabendo o processo com que iríamos trabalhar, seria necessário a realização de uma entrevista com algum dos funcionários do Observatório Social para coleta de informações sobre o processo.
+
+Tendo realizado a entrevista ( ver Entrevista para a descoberta do processo no repositório ), já seria possível realizar a modelagem do AS-IS. Feito a modelagem, seria necessário avalia-lo utilizando critérios tais como qualidade e compreensibilidade.
+Após avaliar o modelo, precisaríamos da aprovação da modelagem pelo Observatório Social para prosseguir ( ver FASE 2 - ATA DA REUNIÃO DO PROJETO DE MELHORIA DE PROCESSOS no repositório )
+
+FASE 3 - ANÁLISE DO PROCESSO
+Configuração: Todos os integrantes
+Para fazer uma análise qualitativa do processo, inicialmente, fizemos a análise do valor agregado ( ver ANÁLISE DE VALOR AGREGADO no repositório ), para isso, listamos todas as atividades do processo, seus realizadores e se agregam ou não valor. 
+Como as atividades que o observatório realiza durante o processo não resultam em perdas, pois o trabalho não possui fins lucrativos, a análise do valor agregado não entregou resultados satisfatórios.
+Partimos então para o registro dos problemas. Como a análise do valor agregado não entregou resultados satisfatórios, foi necessário realizar uma consulta ao observatório para identificar quais eram os maiores problemas na configuração do processo atual. Tendo os problemas registrados ( ver REGISTRO DE PROBLEMAS DO PROCESSO SUJEITO A MUDANÇAS no repositório ), colocamos os casos no diagrama porquê-porquê ( ver DIAGRAMAS PORQUÊ - BOA CONCORRÊNCIA e DIAGRAMA PORQUÊ - VENCEDOR SUPOSTAMENTE FORÇANDO DESCLASSIFICAÇÃO no repositório ) e analisamos suas causas raízes.
+
+Com os problemas identificados, as possíveis soluções podem ser sugeridas.
+
+FASE 4 - REDESIGN DO PROCESSO
+Fazendo um estudo de como é realizada uma licitação, conseguimos uma possível solução para cada problema (ver SOLUÇÕES PROBLEMAS DO PROCESSO no repositório)
+Tendo as soluções, o TO-BE foi modelado ( ver  To-be no repositório ).
+O redesign do processo foi apresentado ao observatório ( ver FASE 4 - ATA DA REUNIÃO DO PROJETO DE MELHORIA DE PROCESSOS no repositório ) 
+

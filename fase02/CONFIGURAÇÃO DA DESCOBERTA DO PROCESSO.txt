@@ -1,0 +1,8 @@
+Configuração da descoberta do processo
+
+NOME	        	ATIVIDADE	                                      		PRAZO
+Rafael Lima		Configuração da descoberta e feedback do observatório 		--
+Felipe Chulli		Avaliação de qualidade do AS-IS e atas	             		13/03
+Hélio Hisao		Modelagem do AS-IS	                             		13/03
+Rodrigo Lescano 	Coleta de informações	                              		--
+

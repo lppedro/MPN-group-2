@@ -1,0 +1,20 @@
+Processos Gerais do OSCG - Observatório Social de Campo Grande:
+	•	Processo de acompanhamento e cadastramento de licitações da prefeitura;
+	•	Processo de cadastramento de voluntariados;
+	•	Processo de cobrança de mensalidade de voluntariados;
+	•	Processo de pagamento de empregados;
+	•	Processo de divulgação das atividades do OS em mídias sociais;
+	•	Processo de cadastramento no SIM ( Sistema Informatizado de Monitoramento ); e
+	•	Processo de controle de bens patrimoniais.
+
+Processo de Acompanhamento e Cadastramento de Licitações da Prefeitura:
+Para cadastrar uma licitação primeiramente são requisitados os documentos que compõem o processo licitatório ( edital, termo de referência e formulários e proposta ). A partir do recebimento, é feito um registro das informações relativas ao evento, tais como data, valores e número do processo, no aplicativo SIM ( Sistema Informatizado de Monitoramento ). O aplicativo expede um email aos fornecedores vinculados ao código CNAE (Classificação Nacional de Atividades Econômicas ) do produto que está sendo adquirido pela prefeitura para que ele possa analisar eventual interesse em vender. Em seguida, é mobilizada uma equipe para analisar as informações relativas as documentações recebidas para verificar se estão de acordo com a lei. Se não estiverem, é necessário, dentro do prazo legal ( 2 dias ), efetuar uma solicitação de indignação do edital, se estiverem, determina-se a presença de uma equipe para participar do certame na data e hora programadas no edital. Após serem definidos os vencedores do pregão, é necessário esperar a homologação da compra pelo prefeito e aguardar o prazo da entrega do produto e acompanhar a sua entrega para conferir se o produto que está sendo entregue é o mesmo solicitado. Se não for, é comunicado a um gestor sobre a falha para providências cabíveis.
+
+Funções ou Atuação do Observatório:
+	•	Monitoramento das compras públicas municipais;
+	•	Educação fiscal;
+	•	Inserção da micro e pequena empresa nos processos licitatórios; e
+	•	Dinamização dos conselhos regionais.
+
+
+Todas atuações que beneficiam a sociedade, decomposta em governo, empresas e cidadãos.
