@@ -21,12 +21,12 @@
     display: inline;
 }
 
-#entrevista {
+.bold-text {
     font-weight: 600;
     font-size: 18px;
 }
 
-#entrevista blockquote{
+.redblocks blockquote{
     font-weight: 200;
     color: #C30912;
 }
